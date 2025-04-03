@@ -31,7 +31,7 @@ async function sor() {
                     return;
                 }
 
-                if (answer.startsWith("delete")) {
+                if (answer.startsWith("sil")) {
                     const deleteId = parseInt(answer.split(" ")[1]);
                     if (isNaN(deleteId)) {
                         console.log("Lütfen geçerli bir ID girin!");
