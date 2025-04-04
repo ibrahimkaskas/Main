@@ -7,6 +7,7 @@ Bu uygulama, terminal üzerinden çalışan basit bir "Yapılacaklar Listesi" y�
 ✔ Programdan çıkış yapabilir.
 
 🚀 Nasıl Çalışır?
+
 1️⃣ Uygulamayı Başlatma
 Proje dizinine gidip komut satırından çalıştırın: npm run start 
 
